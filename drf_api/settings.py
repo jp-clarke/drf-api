@@ -63,7 +63,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '8000-jpclarke-drfapi-rr3lwaykamw.ws-eu104.gitpod.io',
-    'drf-api-jc-72db7ee88def.herokuapp.com/'
+    'drf-api-jc-72db7ee88def.herokuapp.com'
 ]
 
 
